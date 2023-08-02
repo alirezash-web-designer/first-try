@@ -1,0 +1,71 @@
+@font-face {
+    font-family: ('Neorizi');
+    src: url('font/Neirizi.ttf') format('ttf');
+}
+ul li{
+    text-align: center;
+    float:right;
+    padding:30px;
+    margin:15px;
+    font-size:large;
+    /*position: relative;top:30px;right:110px;*/
+}
+li:hover{
+    background-color: rgba(85, 255, 0, 0.713);
+   text-shadow:0 0 2px rgba(191, 79, 5, 0.755);
+    /* box-shadow:3px 3px 5px gray;این دیگه زیادی بود همش سایه بندازیم دیگه خوشگل نیس*/
+    transition-duration:0.567s;
+    border-radius:10px;
+}
+ul{
+    list-style-type:none;
+    background-color: rgb(76, 235, 81);
+    overflow: hidden;
+    height:100px;
+    width:500px;
+    border-radius: 5px;
+    position: relative;left:700px;top:-10px;
+    background-image: linear-gradient(to right ,rgba(35, 235, 118,0.4) ,rgba(69, 117, 240,0.3));
+    box-shadow: 5px 5px 7px gray;
+}
+ul li a{
+    text-decoration:none;
+    color: rgba(186, 22, 84, 0.775);
+}
+header{
+    direction: rtl;
+}
+header h1{
+    height: 30px;
+    position:relative;right: 160px;left:40px;top:40px;
+}
+header img{
+    height:500px;
+    width:700px ;
+    position:relative;right: 500px;top:50px;
+    
+}
+.ca{
+    direction: rtl;
+    position: relative;right: 160px;top: 140px;
+}
+.cj{
+    height: 2000px;
+    
+}
+p{
+    font-size: 32px;
+    font-family:('Neorizi');
+}
+
+
+
+
+
+
+
+
+
+
+
+
