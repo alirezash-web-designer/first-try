@@ -32,19 +32,6 @@ ul li a{
     text-decoration:none;
     color: rgba(186, 22, 84, 0.775);
 }
-header{
-    direction: rtl;
-}
-header h1{
-    height: 30px;
-    position:relative;right: 160px;left:40px;top:40px;
-}
-header img{
-    height:500px;
-    width:700px ;
-    position:relative;right: 500px;top:50px;
-    
-}
 .ca{
     direction: rtl;
     position: relative;right: 160px;top: 140px;
@@ -53,11 +40,6 @@ header img{
     height: 2000px;
     
 }
-p{
-    font-size: 32px;
-    font-family:('Neorizi');
-}
-
 
 
 
