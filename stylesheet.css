@@ -1,6 +1,6 @@
-@font-face {
-    font-family: ('Neorizi');
-    src: url('font/Neirizi.ttf') format('ttf');
+@font-face{
+    font-family: '';
+    src: url('') format('');
 }
 ul li{
     text-align: center;
@@ -36,9 +36,16 @@ ul li a{
     direction: rtl;
     position: relative;right: 160px;top: 140px;
 }
-.cj{
+.cover-for-page {
+    direction: rtl;
+    border-left: 2px dashed gray;
+    border-right: 2px dashed gray;
     height: 2000px;
-    
+    margin:40;
+    border-width: -2px;
+}
+div header{
+    position: relative;right: 60px;
 }
 
 
