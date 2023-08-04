@@ -46,18 +46,17 @@ ul li a{
     position: relative;left: 280px;top: 80px;
     border-width: -2px;
 }
-/* الان داخل مرحله طراحی این عکسم*/
 div header{
     position: relative;right: 60px;
 }
 .header_photo{
-    position: relative;top: 35px; right: 250px;
-    height: 522px;
     border-radius: 24px;
 }
-.border-for-photo{
-    border-color:rgba(0, 255, 127, 1)  ;
-    border-right:3px solid rgba(0, 255, 127, 1) ;
+.shadow-img{
+    position: absolute;top: 95px; right: 250px;
+    box-shadow:80px 75px 1px 5px rgba(0, 255, 127, 1) ;
+    border-radius: 24px;
+    height: 500px;
 }
 
 
