@@ -95,9 +95,8 @@ div header{
     border: 2px solid rgba(106, 101, 98, 0.645);
     border-radius: 10px;
     font-size: 24px;
+    height: 283px;
 }
-.cart-image-1{}
-
 .cart-text-1{
     padding: 5px 10px;
 }
@@ -117,20 +116,25 @@ div header{
     animation-duration: 2s;
 }
 .cart-2{
-    position: absolute;right: 260px;top: 45px;
+    position: absolute;right: 530px;top: 90px;
     border: 2px solid rgba(106, 101, 98, 0.645);
     border-radius: 10px;
     font-size: 24px;
 }
-.cart-button-2{
-    float: left;
-    position: absolute;left: 10px;bottom: 5px;
-}
 .image-2{
     width: 225px;
-    height: 255px;
+    height: 240px;
 }
-
+.image-3{
+    width: 225px;
+    height: 240px;
+}
+.cart-3{
+    position: absolute;right: 150px;top: 90px;
+    border: 2px solid rgba(106, 101, 98, 0.645);
+    border-radius: 10px;
+    font-size: 24px;
+}
 
 
 
