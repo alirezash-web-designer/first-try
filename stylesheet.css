@@ -89,6 +89,7 @@ div header{
     border: 1px solid black;
     border-radius: 24px;
     position: absolute;top: 1630px;right: -55px;
+    box-shadow: 20px 20px 25px 5px #77a6c6;
 }
 .cart-1{
     position: absolute;right: 900px;top: 90px;
