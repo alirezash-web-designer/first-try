@@ -113,7 +113,8 @@ div header{
     font-size: 17px;
 }
 .button-1:hover{
-    color:  rgba(83, 183, 233, 0.405);
+    background-color: #75f303;
+    color: #fffffff;
     animation-duration: 2s;
 }
 .cart-2{
